@@ -1,11 +1,16 @@
 ### Hii! My name is Gabriel Muller. Welcome to my profile 😁
 
+<img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" 
+  src="https://media-exp1.licdn.com/dms/image/C4E03AQEK7PIfja-Ayg/profile-displayphoto-shrink_100_100/0/1630260581523?e=1650499200&v=beta&t=yfsFNn7M_coTIZSeJwJdMT7Bqgt3xKZR7n8HcV7t_ZM">
+
 - 👨‍💻 Currently I´m a front-end developer
 -  🕴 Jr Developer at Pormade Portas
 - 💻 Experience with Java
 - 📘 Studying Typescript and Node.js
 - 😎Always improving my skills
 - 👽 Buscando Conhecimento
+
+
 <br><br/>
 
 <div align="center">
@@ -22,7 +27,6 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
