@@ -4,11 +4,11 @@
   src="https://instagram.ffln3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/270186416_4871793456213874_4070187745667508561_n.jpg?_nc_ht=instagram.ffln3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Xhx4UPHiG1kAX8_7Rly&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8NYF7WL_jO9FqgdSlHk57ElWdQM0bBZP3IG6pGJWZNcg&oe=6215930D&_nc_sid=7bff83">
 
 - 👨‍💻 Currently I´m a front-end developer
--  🕴 Jr Developer at Pormade Portas
+-  🕴Jr Developer at Pormade Portas
 - 💻 Experience with Java
 - 📘 Studying Typescript and Node.js
-- 😎Always improving my skills
-- 👽 Buscando Conhecimento
+- 😎 Always improving my skills
+- 👽 Seeking knowlegde
 
 
 <br><br/>
