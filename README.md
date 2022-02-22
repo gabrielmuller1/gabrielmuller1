@@ -5,7 +5,7 @@
 
 - 👨‍💻 Currently I´m a front-end developer
 -  🕴Jr Developer at Pormade Portas
-- ✔ React Native Developer Aspirant 
+- ✔ React Native && React Js Developer Aspirant 
 - 💻 Experience with Java
 - 📘 Studying Typescript and Node.js
 - 😎 Always improving my skills
