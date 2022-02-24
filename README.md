@@ -7,7 +7,7 @@
 -  🕴Jr Full Stack Developer at Pormade Portas
 - ✔ React Js Developer Aspirant 
 - 💻 Experience with Java
-- 📘 Studying Typescript and Node.js
+- 📘 Studying Typescript and Elixir
 - 😎 Always improving my skills
 - 👽 Seeking knowlegde
 
