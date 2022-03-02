@@ -7,7 +7,7 @@
 -  🕴React Developer at Pormade Portas
 - ✔ React Js Developer Aspirant 
 - 💻 Experience with Java
-- 📘 Studying Typescript and Elixir
+- 📘 Studying Typescript
 - 😎 Always improving my skills
 - 👽 Seeking knowlegde
 
