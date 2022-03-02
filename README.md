@@ -9,7 +9,7 @@
 - 💻 Experience with Java
 - 📘 Studying Typescript and Elixir
 - 😎 Always improving my skills
-- 👽 Seeking knowlegde
+- 👽 Seeking knowlegd
 
 
 <br><br/>
