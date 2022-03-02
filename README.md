@@ -1,4 +1,4 @@
-### Hello 😊 My name is Gabriel Cezar Muller 🙋‍♂️ Welcome to my profile 😁 Be free to know a little bit more of me 😃
+### Hiii. My name is Gabriel Cezar Muller 🙋‍♂️ Welcome to my profile 😁 Be free to know a little bit more of me 😃
 
 <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" 
   src="https://avatars.githubusercontent.com/u/81782103?s=120&v=4">
