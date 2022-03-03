@@ -1,3 +1,7 @@
+<h1 align='center'> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+<p align="center"> 
+ 
+
 Hiii. My name is Gabriel Cezar Muller 🙋‍
    Welcome to my profile 👀 
    Be free to know a little bit more of me📘<br>
