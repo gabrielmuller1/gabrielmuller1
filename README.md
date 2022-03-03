@@ -1,5 +1,5 @@
 Hiii. My name is Gabriel Muller 🙋‍
-   Welcome to my profile 👀<br><br> 
+   Welcome to my profile 👀 
    Be free to know a little bit more of me📘<br>
 
 <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" 
