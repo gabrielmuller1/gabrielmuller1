@@ -1,4 +1,4 @@
-Hiii. My name is Gabriel Muller 🙋‍
+Hiii. My name is Gabriel Cezar Muller 🙋‍
    Welcome to my profile 👀 
    Be free to know a little bit more of me📘<br>
 
