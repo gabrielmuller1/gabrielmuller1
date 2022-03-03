@@ -2,7 +2,8 @@
 <p align="center"> 
  
 
-Hiii. My name is Gabriel Cezar Muller 🙋‍
+### About me
+   My name is Gabriel Cezar Muller 🙋‍
    Welcome to my profile 👀 
    Be free to know a little bit more of me📘<br>
 
