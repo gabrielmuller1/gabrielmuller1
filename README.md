@@ -4,7 +4,7 @@
 
 ### About me
    My name is Gabriel Cezar Volpato Muller 🙋‍<br>
-   I am from Brazil 😁
+   I am from Brazil 😁<br>
    Welcome to my profile 👀 
    <br>
 
