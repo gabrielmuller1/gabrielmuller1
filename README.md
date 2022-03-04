@@ -16,7 +16,7 @@
 - ✔  React Js Developer Aspirant 
 - 💻 Experience with Java
 - 📘 Studying Typescript
-- 😎 Always improving my skill
+- 😎 Always improving my skills
 - 👽 Seeking knowlegde
 
 
