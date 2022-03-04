@@ -3,7 +3,7 @@
  
 
 ### About me
-   My name is Gabriel Cezar Muller 🙋‍
+   My name is Gabriel Cezar Volpato Muller 🙋‍
    Welcome to my profile 👀 
    <br>
 
