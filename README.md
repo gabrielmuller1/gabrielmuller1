@@ -15,7 +15,7 @@
 - 👨‍💻 Currently I am a Full Stack developer
 -  🕴 Working at Pormade Portas
 - ✔  React Js Developer Aspirant 
-- 💻 Experience with Java
+- 💻 Experience with Javaa
 - 📘 Studying Typescript
 - 😎 Always improving my skills
 - 👽 Seeking knowlegde
