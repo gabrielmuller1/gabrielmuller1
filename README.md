@@ -12,7 +12,7 @@
 <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" 
   src="https://avatars.githubusercontent.com/u/81782103?s=120&v=4">
 
-- 👨‍💻 Currently I am a Full Stack develope
+- 👨‍💻 Currently I am a Full Stack developer
 -  🕴 Working at Pormade Portas
 - ✔  React Js Developer Aspirant 
 - 💻 Experience with Java
