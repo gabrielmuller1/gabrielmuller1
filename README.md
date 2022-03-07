@@ -3,7 +3,7 @@
  
 
 ### About me
-   My name is Gabriel Cezar Volpato Mulle 🙋‍<br>
+   My name is Gabriel Cezar Volpato Muller 🙋‍<br>
    I am from Brazil 😁<br>
    19 years old 😎<br>
    Welcome to my profile 👀 
