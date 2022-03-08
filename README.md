@@ -15,7 +15,7 @@
 - 👨‍💻 Currently I am a React Js && React Native developer
 -  🕴 Working at Pormade Portas
 - 💻 Experience with Java
-- 📘 Studying Typescrip
+- 📘 Studying Typescript
 - 😎 Always improving my skills
 - 👽 Seeking knowlegde
 
