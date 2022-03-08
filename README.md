@@ -17,7 +17,7 @@
 - 💻 Experience with Java
 - 📘 Studying Typescript
 - 😎 Always improving my skills
-- 👽 Seeking knowlegd
+- 👽 Seeking knowledge
 
 
 <br><br/>
