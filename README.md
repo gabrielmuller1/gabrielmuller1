@@ -9,8 +9,6 @@
    Welcome to my profile 👀 
    <br><br>
 
-<img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" 
-  src="https://avatars.githubusercontent.com/u/81782103?s=120&v=4">
 
 - 👨‍💻 Currently I am a React Js && React Native developer
 -  🕴 Working at Pormade Portas
