@@ -1,7 +1,7 @@
 <h1 align='center'> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <p align="center"> 
  
-<img alt="Night Coding" src="https://raw.githubusercontent.com/victorEsantos/victorEsantos/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/gabrielmuller1/gabrielmuller1/master/assets/freelancelife.gif" height="300px" width="300px" align="right"/>
  
 ### About me
    My name is Gabriel Cezar Muller 🙋‍<br>
