@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/gabrielmuller1">
-  <img height="194em" src="https://github-readme-stats.vercel.app/api?username=gabrielmuller1&theme=midnight-purple"/>
-  <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmuller1&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="193em" src="https://github-readme-stats.vercel.app/api?username=gabrielmuller1&theme=midnight-purple"/>
+  <img height="193em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmuller1&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <div style="display: inline_block"><br>
