@@ -14,7 +14,8 @@
 
 
 - 👨‍💻 Currently I am a React Js && React Native  developer
-- ✨Javascript && Typescript
+- 🎁 Create-react-app && Vite
+- ✨ Javascript && Typescript
 -  🕴 Working at Pormade Portas
 - 💻 Experience with Java
 - 📘 Studying Typescript
