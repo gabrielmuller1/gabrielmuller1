@@ -17,7 +17,7 @@
 - 🎁 Create-react-app && Vite
 - ✨ Javascript && Typescript
 -  🕴 Working at Pormade Portas
-- 💻 Experience with Java
+- 💻 Experience as a Java Back-end Developer
 - 📘 Studying Typescript
 - 😎 Always improving my skills
 - 👽 Seeking knowledge
