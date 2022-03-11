@@ -20,7 +20,7 @@
 - 💻 Experience as a Java Back-end Developer
 - 📘 Studying Typescript | Node | Elixir | Flutter
 - 😎 Always improving my skills
-- 👽 Seeking knowledg
+- 👽 Seeking knowledge
 
 
 <br><br/>
