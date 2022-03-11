@@ -5,7 +5,7 @@
  
 ### About me
    My name is Gabriel Cezar Muller 🙋‍<br>
-   I am from Brazil 😁<br>
+   I am from Uniãi da Vitória | Brazil 😁<br>
    19 years old 😎<br>
    Welcome to my profile 👀 
    <br><br>
