@@ -1,4 +1,4 @@
-<h1 align='center'> Hello Worl <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+<h1 align='center'> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <p align="center"> 
  
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gabrielmuller1/gabrielmuller1/master/assets/freelancelife.gif"  gap="16px" height="250px" width="250px" align="right"/>
