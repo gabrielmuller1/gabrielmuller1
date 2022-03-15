@@ -12,7 +12,7 @@
  
 
 
-- 👨‍💻 Currently I am a React Js | React Native  developer
+- 👨‍💻 Currently I am a React developer
 - 🎁 Create-react-app | Vite
 - ✨ Javascript | Typescript
 -  🕴 Working at Pormade Portas
