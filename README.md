@@ -4,7 +4,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gabrielmuller1/gabrielmuller1/master/assets/freelancelife.gif"  gap="16px" height="250px" width="250px" align="right"/>
  
 ### About me
-   My name is Gabriel Cezar Muller 🙋‍<br>
+   My name is Gabriel Cezar Mulle 🙋‍<br>
    I am from União da Vitória | Brazil 😁<br>
    19 years old 😎<br>
    <br><br>
