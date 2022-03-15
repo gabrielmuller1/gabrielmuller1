@@ -18,7 +18,7 @@
 -  🕴 Working at Pormade Portas
 - 💻 Experience as a Java Back-end Developer
 - 📘 Studying Typescript | Node | Elixir | Flutter
-- 😎 Always improving my skills
+- 😎 Always improving my skill
 - 👽 Seeking knowledge
 
 
