@@ -17,7 +17,7 @@
 - ✨ Javascript | Typescript
 -  🕴 Working at Pormade Portas
 - 💻 Experience as a Java Back-end Developer
-- 📘 Studying Typescript | Node | Elixir | Flutter
+- 📘 Studying Typescript | Node | Elixir | Flutter | Next
 - 😎 Always improving my skills
 - 👽 Seeking knowledge
 
