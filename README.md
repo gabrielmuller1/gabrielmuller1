@@ -17,7 +17,7 @@
 - ✨ Javascript | Typescript | SCSS
 -  🕴 Working at Pormade Portas de Madeira Decorativa
 - 💻 Experience as a Java Back-end Developer
-- 📘 Studying Typescript | Node | Elixir | Flutter | Next
+- 📘 Studying Typescript | Node | Next
 - 😎 Always improving my skills && habilities
 - 👽 Seeking knowledge
 
