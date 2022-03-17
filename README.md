@@ -15,7 +15,7 @@
 - 👨‍💻 Currently I am a React developer
 - 🎁 Create-react-app | Vite
 - ✨ Javascript | Typescript | SCSS
--  🕴 Working at Pormade Portas
+-  🕴 Working at Pormade Portas de Madeira Decorativa
 - 💻 Experience as a Java Back-end Developer
 - 📘 Studying Typescript | Node | Elixir | Flutter | Next
 - 😎 Always improving my skills
