@@ -10,7 +10,7 @@
    <br><br>
  
  
-
+<h3>Skills</h3>
 
 - 👨‍💻 Currently I am a React developer
 - 🎁 Create-react-app | Vite
