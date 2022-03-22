@@ -22,7 +22,7 @@
 -  🕴 Working at Pormade Portas de Madeira Decorativa
 - 💻 Experience as a Java Back-end Developer
 - 📘 Studying Typescript | Node | Next | Elixir
-- 😎 Always improving my skills && habilities
+- 😎 Always improving my skills
 - 👽 Seeking knowledge<br>
 
 <div style="display: inline_block"><br>
