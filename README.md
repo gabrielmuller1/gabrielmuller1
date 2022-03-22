@@ -15,7 +15,7 @@
  
 <h3>Skills</h3>
 
-- 👨‍💻 Currently I am a React developer
+- 👨‍💻 Currently I am a React Js/Native developer
 - 🎁 Create-react-app | Vite
 - ✨ Javascript | Java | HTML | CSS | Typescript | Python
 - 🐱‍🚀 Spring | Next | React | Angular | Vue | Node
