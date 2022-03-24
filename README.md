@@ -5,7 +5,7 @@
  
 ### About me
    🙋‍ My name is Gabriel Muller <br>
-   😁 I am from União da Vitória/Porto União | Brazil <br>
+   😁 I am from União da Vitória/Porto | Brazil <br>
    😎 19 years <br>
    🙌 Software Developer | Front-end<br>
    😉 Graduating Information Systems
