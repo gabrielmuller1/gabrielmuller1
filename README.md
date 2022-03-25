@@ -21,7 +21,7 @@
 - 🐱‍🚀 Spring | Next | React | Angular | Vue | Node
 - 😆 Working at Pormade Portas de Madeira Decorativa
 - 💻 Experience as a Java Back-end Developer
-- 📘 Studying Typescript | Node | Next | Elixir
+- 📘 Studying Typescript | Node | Next | Elixir | Angular
 - 😎 Always improving my skills
 - 👽 Seeking knowledge<br>
 
