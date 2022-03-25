@@ -42,7 +42,6 @@
   <a href="https://github.com/gabrielmuller1">
   <img height="192em" src="https://github-readme-stats.vercel.app/api?username=gabrielmuller1&theme=midnight-purple"/>
   <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmuller1&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="192em" src="http://github-readme-streak-stats.herokuapp.com?user=gabrielmuller1&theme=midnight-purple&date_format=j%20M%5B%20Y%5D"/>
 </div><br><br>
   
   
