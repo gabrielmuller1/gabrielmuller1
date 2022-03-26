@@ -7,7 +7,7 @@
    🙋‍ My name is Gabriel Cezar Muller <br>
    😁 I am from Brazil <br>
    😎 19 years <br>
-   🙌 Software Developer <br>
+   🙌  <br>
    😉 Graduating Information Systems
   
  <br>
