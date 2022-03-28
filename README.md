@@ -18,7 +18,7 @@
 - 👨‍💻 Currently I am a Junior Full Stack Developer
 - 🎁 Create-react-app | Vite | Svelte
 - ✨ Javascript | Java | HTML | CSS 
-- 🐱‍🚀 Spring | Next | React | Angular | Vue | Node
+- 🐱‍🚀 Spring | Next | React | Angular | Vue | Node | SCSS
 - 😆 Working at Pormade Portas de Madeira Decorativa
 - 💻 Experience as a Java Back-end Developer | Spring
 - 📘 Studying Typescript | Node | Next | Elixir | Angular
