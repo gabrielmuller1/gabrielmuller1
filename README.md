@@ -16,7 +16,7 @@
 <h3>Skills</h3>
 
 - 👨‍💻 Currently I am a Junior Full Stack Developer
-- 🎁 Create-react-app | Vite
+- 🎁 Create-react-app | Vite | Svelte
 - ✨ Javascript | Java | HTML | CSS 
 - 🐱‍🚀 Spring | Next | React | Angular | Vue | Node
 - 😆 Working at Pormade Portas de Madeira Decorativa
