@@ -19,7 +19,7 @@
 - 🎁 Create-react-app | Vite | Svelte
 - ✨ Javascript | Java | HTML | CSS  
 - 🐱‍🚀 Spring | Next | React | Angular | Vue | Node | SCSS
-- 😆 Working at Pormade Portas de Madeira Decorativa
+- 😆 Working at Pormade
 - 💻 Experience as a Java Back-end Developer | Spring
 - 📘 Studying Node | Next | Elixir | Angular
 - 😎 Always improving my skills
