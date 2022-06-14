@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9932cc&lines=Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9966cc&lines=Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 <p align="center">  
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gabrielmuller1/gabrielmuller1/master/assets/freelancelife.gif"  gap="16px" height="250px" width="250px" align="right"/>
  
