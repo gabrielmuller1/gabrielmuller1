@@ -7,6 +7,7 @@
    😁 I am from Brazil <br> 
    😎 19 years <br>
    🙌 Full Stack Developer Jr | React.js, React Native, Node.js <br>
+   📚 Studying Nest | Next | Angular <br>
    😉 Graduating Information Systems  
  <br> 
  
