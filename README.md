@@ -6,7 +6,8 @@
    🙋‍ My name is Gabriel Muller <br>
    😁 I am from Brazil <br> 
    😎 19 years <br>
-   🙌 Full Stack Developer Jr | React.js, React Native, Node.js <br>
+   🙌 Full Stack Developer Jr | JavaScript, TypeScript, Java <br>
+   👨‍💻 React Js, React Native, Next, Jest, Node JS, Nest JS
    📚 Studying Nest | Next | Angular <br>
    😉 Graduating Information Systems  
  <br> 
