@@ -7,7 +7,7 @@
    😁 I am from Brazil <br> 
    😎 20 years <br>
    🙌 Full Stack Software Engineer Jr | JavaScript, TypeScript, Java<br>
-   👨‍💻 React Js, React Native, Next, Jest, Node JS, Nest JS <br>
+   👨‍💻 React Js, React Native, Next, Jest, Node JSbr>
    📚 Studying Nest | Next | Angular <br>
    😉 Graduating Information Systems 6/8 
  <br> 
@@ -22,9 +22,6 @@
 
 #### Banco de dados:
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-
-#### Frameworks:
-<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> 
 
 #### Clouds:
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
