@@ -4,9 +4,9 @@
  
 ### About me
    🙋‍ My name is Gabriel Muller <br>
-   😁 I am from Brazil <br> 
+   😁 I am from União da Vitória, Brazil<br> 
    😎 20 years <br>
-   🙌 Full Stack Software Engineer Jr | JavaScript, TypeScript, Java<br>
+   🙌 Full Stack Software Engineer | JavaScript, TypeScript, Java<br>
    👨‍💻 React Js, React Native, Next, Jest, Node JSbr>
    📚 Studying Nest | Next | Angular <br>
    😉 Graduating Information Systems 6/8 
