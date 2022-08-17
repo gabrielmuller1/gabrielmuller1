@@ -6,9 +6,9 @@
    🙋‍ My name is Gabriel Muller <br>
    😁 I am from União da Vitória, Brazil<br> 
    😎 20 years <br>
-   🙌 Full Stack Software Engineer | JavaScript, TypeScript, Java<br>
-   👨‍💻 React Js, React Native, Next, Jest, Node JS<br>
-   📚 Studying Nest | TypeORM | Angular <br>
+   🙌 Full Stack Software Engineer<br>
+   👨‍💻 Technologies: Javascript, Typescript, Java, Nest, Next, Node<br>
+   📚 Tools: TypeORM, Apache Kafka, Kafka Connection, Kibana, Elastic Search, gRPC<br>
    😉 Graduating Information Systems 6/8 
  <br> 
  
