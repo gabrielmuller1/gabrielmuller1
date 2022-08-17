@@ -8,7 +8,7 @@
    😎 20 years <br>
    🙌 Full Stack Software Engineer | JavaScript, TypeScript, Java<br>
    👨‍💻 React Js, React Native, Next, Jest, Node JS<br>
-   📚 Studying Nest | Next | Angular <br>
+   📚 Studying Nest | TypeORM | Angular <br>
    😉 Graduating Information Systems 6/8 
  <br> 
  
