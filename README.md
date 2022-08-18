@@ -8,7 +8,7 @@
    😎 20 years <br>
    🙌 Full Stack Software Engineer<br>
    👨‍💻 Technologies: Javascript, Typescript, Java, Nest, Next, Node<br>
-   📚 Tools: TypeORM, Apache Kafka, Kafka Connection, Kibana, Elastic Search, gRPC<br>
+   📚 Tools: TypeORM, Apache Kafka, Kibana, Elastic Search, gRPC<br>
    😉 Graduating Information Systems 6/8 
  <br> 
  
