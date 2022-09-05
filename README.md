@@ -15,7 +15,7 @@
 <h3>Skills</h3>
 
 #### Front-end:
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="Saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
 #### Back-end:
 <img alt="Java" src="https://img.shields.io/badge/java-%200.svg?&style=for-the-badge&logo=spring&logoColor=white&Color=blue"/> <img alt="Nest" src="https://img.shields.io/badge/nest-%23FF0000.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/> <img alt="Go" src="https://img.shields.io/badge/golang-%2300BFFF.svg?&style=for-the-badge&logo=go&logoColor=white&Color=blue"/> <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/> <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
