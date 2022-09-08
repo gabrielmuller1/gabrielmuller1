@@ -7,9 +7,6 @@
    😁 I am from União da Vitória, Brazil<br> 
    😎 20 years <br>
    🙌 Full Stack Software Engineer<br>
-   👨‍💻 Technologies: Javascript, Typescript, Java, Nest, Next, Golang, React, Node<br>
-   📚 Tools: TypeORM, Apache Kafka, Kibana, Elastic Search, gRPC<br>
-   😉 Graduating Information Systems 6/8 
  <br> 
  
 <h3>Skills</h3>
