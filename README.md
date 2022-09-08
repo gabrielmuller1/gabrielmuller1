@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9966cc&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <p align="center">  
-<img alt="Night Coding" src="https://raw.githubusercontent.com/gabrielmuller1/gabrielmuller1/master/assets/freelancelife.gif"   height="200px" width="200px" align="right" justify="top"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/gabrielmuller1/gabrielmuller1/master/assets/freelancelife.gif"   height="200px" width="320px" align="right" justify="top"/>
  
 ### About me
    🙋‍ My name is Gabriel Muller <br>
