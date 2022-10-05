@@ -32,7 +32,7 @@
 <div align="center">
   <a href="https://github.com/gabrielmuller1">
   <img width="55%" height="192em" src="https://github-readme-stats.vercel.app/api?username=gabrielmuller1&theme=midnight-purple"/>
-  <img width="40%" height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmuller1&layout=compact&langs_count=7&theme=midnight-purple"/><br>
+  <img width="40%" height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmuller1&layout=compact&langs_count=7&theme=midnight-purple"/><br><br><br>
   
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=gabrielmuller1&theme=high-contrast&title_color=7f3ace&bg_color=0d1117&hide_border=true&area=true)
 
