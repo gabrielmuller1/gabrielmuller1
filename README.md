@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7f3ace&size=25&font=helvetica&lines=Welcome+to+my+profile+🙋‍♂️👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=25&font=helvetica&lines=Welcome+to+my+profile+🙋‍♂️👨‍💻)](https://git.io/typing-svg)
 <p align="center">  
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gabrielmuller1/gabrielmuller1/master/assets/freelancelife.gif"   height="200px" width="320px" align="right" justify="top"/>
  
