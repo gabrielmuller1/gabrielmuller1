@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7f3ace&font=helvetica&lines=Welcome+to+my+profile+🙋‍♂️👨‍💻)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7f3ace&fontsize=40&font=helvetica&lines=Welcome+to+my+profile+🙋‍♂️👨‍💻)](https://git.io/typing-svg)
 <p align="center">  
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gabrielmuller1/gabrielmuller1/master/assets/freelancelife.gif"   height="200px" width="320px" align="right" justify="top"/>
  
@@ -44,3 +46,5 @@
   <a href = "mailto:gabrielmuller708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-muller-80929b1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br><br> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=footer"/>****
