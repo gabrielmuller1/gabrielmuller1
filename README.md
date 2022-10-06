@@ -47,4 +47,9 @@
   <a href="https://www.linkedin.com/in/gabriel-muller-80929b1b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br><br> 
 </div>
 
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" background="7f3ace" src="https://profile-counter.glitch.me/{gabrielmuller1}/count.svg" /></p> 
+<br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=footer"/>
