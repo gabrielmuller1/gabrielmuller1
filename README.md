@@ -34,7 +34,7 @@
 <div align="center">
   <a href="https://github.com/gabrielmuller1">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielmuller1&show_icons=true&count_private=true&hide_border=true&title_color=7f3ace&icon_color=7f3ace&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="40%" height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmuller1&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d1117"/><br><br><br>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmuller1&layout=compact&hide_border=true&title_color=7f3ace&text_color=ffffff&bg_color=0d1117" /><br><br><br>
   
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=gabrielmuller1&theme=high-contrast&title_color=7f3ace&title_size=27&line=7f3ace&bg_color=0d1117&hide_border=true&area=true&radius=10)
 
