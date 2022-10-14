@@ -14,7 +14,7 @@
  ### Experience 💼
    🔵 Intern Deleloper at Personaliza( Jun 2020 - Jul 2021 ) <br>
    ⚪ Backend Analyst I at Totvs( Nov 2021 - May 2022 ) <br>
-   🟢 FullStack Software Engineer ( Jun 2021 - Current )
+   🟢 FullStack Software Engineer II at Pormade( Jun 2021 - Current )
  <br/>
  
 <h3>Skills 😎</h3>
