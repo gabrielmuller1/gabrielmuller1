@@ -5,15 +5,19 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gabrielmuller1/gabrielmuller1/master/assets/freelancelife.gif"   height="200px" width="320px" align="right" justify="top"/>
  
  
-### About me
-   🙋‍ My name is Gabriel Muller <br>
-   😁 I am from União da Vitória, Brazil<br> 
-   😎 20 years <br>
-   🙌 Full Stack Software Engineer<br>
-   💼 Pormade Portas
+### About me 😁
+   🧑 My name is Gabriel Muller <br>
+   🏡 I am from União da Vitória, Brazil<br> 
+   ⚖ 20 years <br>
  <br> 
  
-<h3>Skills</h3>
+ ### Experience 💼
+   🔵 Intern Deleloper at Personaliza( Jun 2020 - Jul 2021 ) <br>
+   ⚪ Backend Analyst I at Totvs( Nov 2021 - May 2022 ) <br>
+   🟢 FullStack Software Engineer ( Jun 2021 - Current )
+ <br/>
+ 
+<h3>Skills 😎</h3>
 
 #### Front-end:
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="Saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"/> <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
@@ -30,7 +34,7 @@
 #### Clouds:
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <br><br/>
-<h3>Stats</h3>
+<h3>Stats 📊</h3>
 <div align="center">
   <a href="https://github.com/gabrielmuller1">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielmuller1&show_icons=true&count_private=true&hide_border=true&title_color=7f3ace&icon_color=7f3ace&text_color=ffffff&bg_color=0d1117"/> 
@@ -40,7 +44,7 @@
 
 </div><br><br>  
   
-  <h3>Contact</h3> 
+  <h3>Contact 📞</h3> 
 <div> 
   <a href="https://instagram.com/gabriel_mul" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielmuller708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
